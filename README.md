@@ -134,10 +134,11 @@ Il présente notamment :
 📄 **[Consulter le rapport complet du projet](Rapport_NGS_VariantCalling_Nextflow.pdf)**
 
 
-## Auteure
+
+---
 
 **Hawa BALDE**  
-Master Bioinformatique et Biologie des Systèmes  
+Master 2 Bioinformatique et Biologie des Systèmes  
 Université de Toulouse | 2025–2026
 
 

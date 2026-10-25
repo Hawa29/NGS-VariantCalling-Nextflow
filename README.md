@@ -104,11 +104,15 @@ Le fichier `multiqc_report.html`, disponible dans le dossier `reports/`, regroup
 
 Il permet notamment de consulter les informations relatives à la qualité des lectures, aux alignements et aux étapes d'appel de variants.
 
+
 ### Bilan
 
 Ce projet a permis de mettre en œuvre avec succès un workflow d'analyse RNA-seq et de détection de variants génétiques sur un environnement HPC.
 
 Il a également permis de se familiariser avec **l'organisation des sorties d'un pipeline nf-core**, l'examen des statistiques d'alignement et l'exploitation des fichiers VCF et des rapports de qualité.
+
+Les variants détectés pourraient faire l'objet d'**analyses complémentaires**, notamment une annotation fonctionnelle pour identifier les gènes concernés et évaluer les conséquences potentielles des variants sur les protéines. Ces analyses permettraient d'approfondir leur interprétation biologique et d'explorer leur éventuel intérêt fonctionnel.
+
 
 ## Rapport du projet
 
